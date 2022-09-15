@@ -1,7 +1,7 @@
-export var list = [];
+var list = [];
 export function hozzaad(a){
     if (a>=0){
-        list.add(a);
+        list.push(a);
     }else{
         console.log("HIBA!");
     }
