@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/BAkosM/orai-munka-2022-09-15/issues"
   },
-  "homepage": "https://github.com/BAkosM/orai-munka-2022-09-15#readme"
+  "homepage": "https://github.com/BAkosM/orai-munka-2022-09-15#readme",
+  "devDependencies": {
+    "webpack-cli": "^4.10.0"
+  }
 }
